@@ -1,9 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
-
+# Reg No: 212225040423
+# Name: SRI RAM M
+# Date:24/11/2026
 
 # AIM:
 To develop the Hospital Management System using Star UML.
@@ -42,6 +41,7 @@ Specifying the context and requirements of a system
 
 
 
+<img width="1903" height="1132" alt="image" src="https://github.com/user-attachments/assets/0f9322ae-a564-4261-994d-7b924786a514" />
 
 
 
@@ -60,6 +60,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1906" height="1042" alt="image" src="https://github.com/user-attachments/assets/4bf965a1-cea2-4681-a619-3c7d89dc06a3" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -68,6 +69,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/bbae3d8f-9e04-40f5-8da1-4aa9386c6853" />
 
 
 
@@ -82,6 +84,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="1917" height="1040" alt="image" src="https://github.com/user-attachments/assets/1de05ded-5c16-48bc-bd68-082b10cb83c5" />
 
 
 
@@ -98,6 +101,7 @@ Demonstrate the logic of an algorithm.
 
 Describe the steps performed in a UML use case.
 
+<img width="1917" height="1050" alt="image" src="https://github.com/user-attachments/assets/d7a07b24-3a16-48ad-9cec-7d72763edfd6" />
 
 
 
@@ -121,6 +125,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/b55cbaaa-3f19-489f-ace2-7c101cc51848" />
 
 
 
